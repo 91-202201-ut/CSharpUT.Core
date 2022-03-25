@@ -4,3 +4,5 @@ Lib/bin
 Lib/obj
 *.user
 .vs/Holiday/v16/.suo
+
+.idea
